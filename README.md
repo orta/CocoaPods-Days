@@ -6,7 +6,7 @@ Nothing too special, just a ruby script to know what's changed in CocoaPods in t
 ### Usage
 
 ```
-git clone [repourl]
+git clone https://github.com/orta/CocoaPods-Days.git
 bundle install
 ruby days.rb 2
 ```
