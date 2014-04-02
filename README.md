@@ -7,6 +7,7 @@ Nothing too special, just a ruby script to know what's changed in CocoaPods in t
 
 ```
 git clone https://github.com/orta/CocoaPods-Days.git
+cd CocoaPods-Days
 bundle install
 ruby days.rb 2
 ```
