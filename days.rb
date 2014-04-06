@@ -41,6 +41,10 @@ else
 end
 
 days = ARGV.shift
+unless days
+  puts 'Please specify the number of days on the command line'
+  exit
+end
 specs = specs_for_days_ago_diff days
 
 for spec_address in specs
