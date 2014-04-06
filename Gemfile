@@ -1,2 +1,4 @@
-gem 'CocoaPods'
+source 'https://rubygems.org'
+
+gem 'cocoapods'
 gem 'cocoapods-core'
